@@ -2,7 +2,10 @@
 
 Dark Deception/SDD saves. Story mode and S ranks.
 
-# NAMES (Before each level, so VORSPIEL is a new game right before MB.)
+# NAMES 
+
+Files are right before each level, so VORSPIEL is a new game right before MB. For obvious reasons this file is often not included in the repo. The power setups are also identical to that in the videos.
+
 ```
 VORSPIEL - Monkey Business
 CATALYST - Elementary Evil
