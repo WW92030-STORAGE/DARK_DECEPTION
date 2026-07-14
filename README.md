@@ -21,6 +21,8 @@ EVERSION - Prison Panic
 
 `MISC` folders contain experimental or snapshot files. These are not part of the canonical run that represents this repo.
 
+`COVERS` folders contain YouTube thumbnails drawn by me for use on gameplay videos as needed.
+
 # PLAYLISTS
 
 DD S Ranks - https://www.youtube.com/playlist?list=PLYINvdaw1VSecGQ2GIBcr--vUKdPM2AD8
